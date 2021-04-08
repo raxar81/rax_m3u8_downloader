@@ -213,7 +213,7 @@ urllib3.disable_warnings()
 window = tkinter.Tk()
 window.style = Style()
 window.style.theme_use("clam")
-window.title("Rax m3u8电影下载器")
+window.title("Rax m3u8视频下载器")
 window.geometry('500x300')
 window.resizable(0,0)
 
