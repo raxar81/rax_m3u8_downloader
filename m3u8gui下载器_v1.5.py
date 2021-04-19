@@ -170,7 +170,7 @@ def choose_dir():
 def about():
     window = tkinter.Toplevel()
     window.geometry('600x100')# Note Toplevel, NOT Tk.
-    msg = 'Rax m3u8下载器 v1.4\n写这个程序主要是为了学习Tk，顺便满足下自己看视频的需求。\n家里的移动网络看在线视频还是有些卡顿的。'
+    msg = 'Rax m3u8下载器 v1.4\n写这个程序主要是为了学习Tk，顺便满足下自己看视频的需求。\n家里的移动网络看在线视频还是有些卡顿的。 '
     label = tkinter.Label(window, text=msg,font=('Arial', 15))
     label.grid()
 def update():
