@@ -8,6 +8,10 @@
 
 
 更新日志
+v3.0
+加入浅色深色两种主题界面ui
+![image](https://user-images.githubusercontent.com/16841157/202891079-268739a8-e0c0-443e-b097-27fec6a3ecdc.png)
+![image](https://user-images.githubusercontent.com/16841157/202891093-3ce7c628-b973-41bd-a4f3-5896abebb9c2.png)
 
 v2.0
 可以搜索想要下载的视频了
