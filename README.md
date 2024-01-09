@@ -12,7 +12,8 @@
 v3.0
 UI改使用flet模块，代码也全部重新写了一遍，界面更加简洁，提供3个源搜索，列表显示搜索预览封面图与更新时间等信息，下载进度环型显示
 ![image](https://github.com/raxar81/rax_m3u8_downloader/assets/16841157/d32873f4-2cf9-42c3-85fa-cacd485bfa8d)
-![2](https://github.com/raxar81/rax_m3u8_downloader/assets/16841157/3137017b-7394-489f-86db-931d14110059)
+![image](https://github.com/raxar81/rax_m3u8_downloader/assets/16841157/5bb1e026-53aa-4834-8a3b-94d66236e5d4)
+
 
 
 
